@@ -1,0 +1,1 @@
+Selenium 2 自动化测试实践——基于Python语言。

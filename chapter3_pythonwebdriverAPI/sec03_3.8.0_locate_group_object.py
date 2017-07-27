@@ -15,21 +15,22 @@ checkbox，然后选择最后一个。
 """
 from selenium import webdriver
 # from selenium.webdriver.support.ui import WebDriverWait
-import os
+import os, time
 
 driver = webdriver.Chrome()
 file_path = 'file://' + os.path.abspath('checkbox.html')
 driver.get(file_path)
 # 选择页面上所有的 tag name 为 input 的元素
 inputs = driver.find_elements_by_tag_name('input')
-print(inputs)
+
 for input in inputs:
     # element = WebDriverWait(driver, 10).until(lambda inputs: inputs)
-    print(input)
     if input.get_attribute('type') == 'checkbox':
         input.click()
-
+time.sleep(4)
+driver.get_screenshot_as_file("./checkbox_group.png")
 driver.quit()
+
 print("complete !")
 
 '''

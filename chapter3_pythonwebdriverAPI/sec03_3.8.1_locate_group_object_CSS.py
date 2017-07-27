@@ -15,7 +15,7 @@ checkbox，然后选择最后一个。
 """
 from selenium import webdriver
 # from selenium.webdriver.support.ui import WebDriverWait
-import os
+import os, time
 
 driver = webdriver.Chrome()
 file_path = 'file://' + os.path.abspath('checkbox.html')
@@ -23,7 +23,10 @@ driver.get(file_path)
 # 选择页面上所有的 tag name 为 input 的元素
 Checkboxes = driver.find_elements_by_css_selector('input[type=checkbox]')
 for checkbox in Checkboxes:
-    checkbox.checked()
+    checkbox.click()
+
+time.sleep(3)
+driver.get_screenshot_as_file("./Checkbox_group_CSS.png")
 driver.quit()
 print("complete !")
 

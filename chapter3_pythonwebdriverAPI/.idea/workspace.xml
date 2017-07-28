@@ -11,109 +11,127 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/chapter3_pythonwebdriverAPI$sec03_3_8_0_locate_group_object.coverage" NAME="sec03_3.8.0_locate_group_object Coverage Results" MODIFIED="1501134404274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chapter3_pythonwebdriverAPI$sec03_3_19_2_cookie_process.coverage" NAME="sec03_3.19.2_cookie_process Coverage Results" MODIFIED="1501239379555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chapter3_pythonwebdriverAPI$sec03_3_19_1_cookie_print.coverage" NAME="sec03_3.19.1_cookie_print Coverage Results" MODIFIED="1501239318616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chapter3_pythonwebdriverAPI$sec03_3_8_1_locate_group_object_pop_one.coverage" NAME="sec03_3.8.1_locate_group_object_pop_one Coverage Results" MODIFIED="1501135019256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chapter3_pythonwebdriverAPI$sec03_3_17_1JavaScript.coverage" NAME="sec03_3.17.1JavaScript Coverage Results" MODIFIED="1501238722572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chapter3_pythonwebdriverAPI$sec06_print_info.coverage" NAME="sec06_print_info Coverage Results" MODIFIED="1500971070401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chapter3_pythonwebdriverAPI$sec03_3_8_1_locate_group_object.coverage" NAME="sec03_3.8.1_locate_group_object Coverage Results" MODIFIED="1501134526883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chapter3_pythonwebdriverAPI$sec03_3_9_0_LevelLocate.coverage" NAME="sec03_3.9.0_LevelLocate Coverage Results" MODIFIED="1501135593686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chapter3_pythonwebdriverAPI$sec03_3_13_0_dropdown_btn.coverage" NAME="sec03_3.13.0_dropdown_btn Coverage Results" MODIFIED="1501233298248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chapter3_pythonwebdriverAPI$sec03_3_12_1_mutl_windows.coverage" NAME="sec03_3.12.1_mutl_windows Coverage Results" MODIFIED="1501220851704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chapter3_pythonwebdriverAPI$sec03_3_14_0.coverage" NAME="sec03_3.14.0 Coverage Results" MODIFIED="1501236064179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chapter3_pythonwebdriverAPI$sec03_11_0_dialog_process.coverage" NAME="sec03_11.0_dialog_process Coverage Results" MODIFIED="1501156134621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/chapter3_pythonwebdriverAPI$sec03_3_8_1_locate_group_object_pop_one.coverage" NAME="sec03_3.8.1_locate_group_object_pop_one Coverage Results" MODIFIED="1501135019256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/chapter3_pythonwebdriverAPI$sec06_print_info.coverage" NAME="sec06_print_info Coverage Results" MODIFIED="1500971070401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chapter3_pythonwebdriverAPI$sec03_3_12_2_alertconfirmprompt.coverage" NAME="sec03_3.12.2_alertconfirmprompt Coverage Results" MODIFIED="1501222779104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chapter3_pythonwebdriverAPI$Upfile.coverage" NAME="Upfile Coverage Results" MODIFIED="1501218988390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sec03_3.8.1_locate_group_object_pop_one.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec03_3.8.1_locate_group_object_pop_one.py">
+      <file leaf-file-name="sec03_3.12.2_alertconfirmprompt.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sec03_3.12.2_alertconfirmprompt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+              <folding>
+                <element signature="e#586#616#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sec03_3.13.0_dropdown_btn.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sec03_3.13.0_dropdown_btn.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding>
-                <element signature="e#225#255#0" expanded="true" />
+                <element signature="e#299#329#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="level_locate.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/level_locate.html">
+      <file leaf-file-name="sec03_3.14.0.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sec03_3.14.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="37" column="10" lean-forward="true" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+            <state relative-caret-position="690">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding>
+                <element signature="e#276#306#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sec03_3.16_down_file.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sec03_3.16_down_file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" column="39" lean-forward="false" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sec03_3.9.0_LevelLocate.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec03_3.9.0_LevelLocate.py">
+      <file leaf-file-name="sec03_3.17.1JavaScript.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sec03_3.17.1JavaScript.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="454">
+              <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
               <folding>
-                <element signature="e#340#370#0" expanded="true" />
+                <element signature="e#615#645#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sec03_10.1.0_locate_objectInframe.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec03_10.1.0_locate_objectInframe.py">
+      <file leaf-file-name="sec03_3.19.1_cookie_print.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sec03_3.19.1_cookie_print.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="339">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding>
+                <element signature="e#649#679#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sec03_3.19.2_cookie_process.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sec03_3.19.2_cookie_process.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="39" column="27" lean-forward="false" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+              <folding>
+                <element signature="e#649#679#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="js.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sec03_11.0_dialog_process.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sec03_11.0_dialog_process.py">
+      <file leaf-file-name="drop_down.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drop_down.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-              <folding>
-                <element signature="e#288#318#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="baidu_logon.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baidu_logon.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="webdriver.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/Program Files/Python35/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="675" column="8" lean-forward="false" selection-start-line="675" selection-start-column="8" selection-end-line="675" selection-end-column="8" />
+            <state relative-caret-position="322">
+              <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sec03.7.1_waiting.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec03.7.1_waiting.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-              <folding>
-                <element signature="e#479#509#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="第九层级定位——1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第九层级定位——1.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Checkbox_group_pop.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Checkbox_group_pop.png">
+      <file leaf-file-name="alert.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alert.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -141,6 +159,18 @@
         <option value="$PROJECT_DIR$/sec03_3.9.0_LevelLocate.py" />
         <option value="$PROJECT_DIR$/sec03_10.1.0_locate_objectInframe.py" />
         <option value="$PROJECT_DIR$/sec03_11.0_dialog_process.py" />
+        <option value="$PROJECT_DIR$/Upfile.py" />
+        <option value="$PROJECT_DIR$/sec03_3.12.1_mutl_windows.py" />
+        <option value="$PROJECT_DIR$/sec03_3.12.2_alertconfirmprompt.py" />
+        <option value="$PROJECT_DIR$/sec03_3.15.0.py" />
+        <option value="$PROJECT_DIR$/drop_down.html" />
+        <option value="$PROJECT_DIR$/sec03_3.13.0_dropdown_btn.py" />
+        <option value="$PROJECT_DIR$/sec03_3.14.0.py" />
+        <option value="$PROJECT_DIR$/sec03_3.16_down_file.py" />
+        <option value="$PROJECT_DIR$/js.html" />
+        <option value="$PROJECT_DIR$/sec03_3.17.1JavaScript.py" />
+        <option value="$PROJECT_DIR$/sec03_3.19.1_cookie_print.py" />
+        <option value="$PROJECT_DIR$/sec03_3.19.2_cookie_process.py" />
       </list>
     </option>
   </component>
@@ -211,8 +241,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sec03_11.0_dialog_process">
-    <configuration default="false" name="sec03_3.8.0_locate_group_object" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.sec03_3.19.2_cookie_process">
+    <configuration default="false" name="sec03_3.13.0_dropdown_btn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -225,13 +255,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="chapter3_pythonwebdriverAPI" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sec03_3.8.0_locate_group_object.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sec03_3.13.0_dropdown_btn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="sec03_3.8.1_locate_group_object" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="sec03_3.14.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -244,13 +274,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="chapter3_pythonwebdriverAPI" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Git_Repositories\selenium2_python\chapter3_pythonwebdriverAPI\sec03_3.8.1_locate_group_object_CSS.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sec03_3.14.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="sec03_3.8.1_locate_group_object_pop_one" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="sec03_3.17.1JavaScript" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -263,13 +293,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="chapter3_pythonwebdriverAPI" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sec03_3.8.1_locate_group_object_pop_one.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sec03_3.17.1JavaScript.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="sec03_3.9.0_LevelLocate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="sec03_3.19.1_cookie_print" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -282,13 +312,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="chapter3_pythonwebdriverAPI" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sec03_3.9.0_LevelLocate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sec03_3.19.1_cookie_print.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="sec03_11.0_dialog_process" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="sec03_3.19.2_cookie_process" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -301,7 +331,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="chapter3_pythonwebdriverAPI" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sec03_11.0_dialog_process.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sec03_3.19.2_cookie_process.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -456,19 +486,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.sec03_3.8.0_locate_group_object" />
-      <item index="1" class="java.lang.String" itemvalue="Python.sec03_3.8.1_locate_group_object" />
-      <item index="2" class="java.lang.String" itemvalue="Python.sec03_3.8.1_locate_group_object_pop_one" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sec03_3.9.0_LevelLocate" />
-      <item index="4" class="java.lang.String" itemvalue="Python.sec03_11.0_dialog_process" />
+      <item index="0" class="java.lang.String" itemvalue="Python.sec03_3.13.0_dropdown_btn" />
+      <item index="1" class="java.lang.String" itemvalue="Python.sec03_3.14.0" />
+      <item index="2" class="java.lang.String" itemvalue="Python.sec03_3.17.1JavaScript" />
+      <item index="3" class="java.lang.String" itemvalue="Python.sec03_3.19.1_cookie_print" />
+      <item index="4" class="java.lang.String" itemvalue="Python.sec03_3.19.2_cookie_process" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.sec03_11.0_dialog_process" />
-        <item index="1" class="java.lang.String" itemvalue="Python.sec03_3.9.0_LevelLocate" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sec03_3.8.1_locate_group_object_pop_one" />
-        <item index="3" class="java.lang.String" itemvalue="Python.sec03_3.8.1_locate_group_object" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sec03_3.8.0_locate_group_object" />
+        <item index="0" class="java.lang.String" itemvalue="Python.sec03_3.19.2_cookie_process" />
+        <item index="1" class="java.lang.String" itemvalue="Python.sec03_3.19.1_cookie_print" />
+        <item index="2" class="java.lang.String" itemvalue="Python.sec03_3.17.1JavaScript" />
+        <item index="3" class="java.lang.String" itemvalue="Python.sec03_3.14.0" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sec03_3.13.0_dropdown_btn" />
       </list>
     </recent_temporary>
   </component>
@@ -486,7 +516,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1692" height="1057" extended-state="0" />
+    <frame x="-7" y="0" width="1692" height="1057" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -495,7 +525,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32850778" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10110294" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17340687" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -606,14 +636,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/physicalModel/tmall_PhysicalModel.py" />
     <entry file="file://$PROJECT_DIR$/sec06_print_info.py" />
-    <entry file="file://$PROJECT_DIR$/sec03_3.3.1_logonInstance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/checkbox_group.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -624,7 +646,7 @@
         <state relative-caret-position="448">
           <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
           <folding>
-            <element signature="e#408#438#0" expanded="true" />
+            <element signature="e#408#438#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -639,7 +661,7 @@
         <state relative-caret-position="280">
           <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
           <folding>
-            <element signature="e#408#438#0" expanded="true" />
+            <element signature="e#408#438#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -652,7 +674,7 @@
     <entry file="file://$PROJECT_DIR$/level_locate.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
-          <caret line="37" column="10" lean-forward="true" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+          <caret line="37" column="10" lean-forward="false" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -665,9 +687,9 @@
     <entry file="file://$PROJECT_DIR$/sec03_3.8.1_locate_group_object_pop_one.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding>
-            <element signature="e#225#255#0" expanded="true" />
+            <element signature="e#225#255#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -675,36 +697,20 @@
     <entry file="file://$PROJECT_DIR$/sec03_3.9.0_LevelLocate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <element signature="e#340#370#0" expanded="true" />
+            <element signature="e#340#370#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec03_10.1.0_locate_objectInframe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sec03.7.1_waiting.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="347">
-          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+          <caret line="27" column="29" lean-forward="false" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
           <folding>
-            <element signature="e#479#509#0" expanded="true" />
+            <element signature="e#479#509#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Python35/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="675" column="8" lean-forward="false" selection-start-line="675" selection-start-column="8" selection-end-line="675" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,12 +719,164 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec03_11.0_dialog_process.py">
+    <entry file="file://$PROJECT_DIR$/upfile.au3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Upfile.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Upfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec03_3.11.0_dialog_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="48" column="22" lean-forward="false" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+          <folding>
+            <element signature="e#288#318#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-94">
+          <caret line="237" column="0" lean-forward="false" selection-start-line="237" selection-start-column="0" selection-end-line="237" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec03_3.3.1_logonInstance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec03_3.10.1.0_locate_objectInframe.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
-          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec03_3.15.1_uploadFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec03_3.12.1_mutl_windows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="943">
+          <caret line="41" column="21" lean-forward="false" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
           <folding>
-            <element signature="e#288#318#0" expanded="true" />
+            <element signature="e#356#386#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alert.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec03_3.12.2_alertconfirmprompt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="e#586#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drop_down.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec03_3.13.0_dropdown_btn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="e#299#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec03_3.14.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#276#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec03_3.16_down_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="39" lean-forward="false" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec03_3.17.1JavaScript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <folding>
+            <element signature="e#615#645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec03_3.19.1_cookie_print.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#649#679#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec03_3.19.2_cookie_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="39" column="27" lean-forward="false" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+          <folding>
+            <element signature="e#649#679#0" expanded="true" />
           </folding>
         </state>
       </provider>

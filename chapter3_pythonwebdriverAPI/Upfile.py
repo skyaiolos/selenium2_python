@@ -23,7 +23,7 @@ file_btn = WebDriverWait(driver, 10).until(lambda btn: driver.find_element_by_na
 file_btn.click()
 
 # 调用upfile.exe 脚本，
-os.system(r"G:\GitHub_Repository\selenium2_python\chapter3_pythonwebdriverAPI\upfile.exe")
+os.system(r".\upfile.exe")
 
 time.sleep(3)
 driver.get_screenshot_as_file("./Upfile.png")

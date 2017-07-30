@@ -6,6 +6,7 @@ __author__ = "Jianguo Jin (jinjianguosky@hotmail.com)"
 """
     Description:
         通过自动化测试脚本调用upfile.exe 程序，实现上传
+        https://www.autoitscript.com/site
 """
 
 from selenium import webdriver
@@ -23,7 +24,7 @@ file_btn = WebDriverWait(driver, 10).until(lambda btn: driver.find_element_by_na
 file_btn.click()
 
 # 调用upfile.exe 脚本，
-os.system(r".\upfile.exe")
+os.system(r"./upfile.exe")
 
 time.sleep(3)
 driver.get_screenshot_as_file("./Upfile.png")

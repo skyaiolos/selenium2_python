@@ -47,6 +47,7 @@ print(alert.text)
 
 # 接收警告信息
 alert.accept()
+time.sleep(3)
 dirver.get_screenshot_as_file("./afterSetting.png")
 
 # 取消对话框（如果有的话）

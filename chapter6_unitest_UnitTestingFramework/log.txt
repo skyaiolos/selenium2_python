@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "G:\GitHub_Repository\selenium2_python\chapter6_unitest_UnitTestingFramework\test_case\sec03_auto.py", line 51, in <module>
+    unittest.main('suite')
+  File "C:\Program Files\Python3.6.1\lib\unittest\main.py", line 64, in __init__
+    self.module = __import__(module)
+ModuleNotFoundError: No module named 'suite'
+Traceback (most recent call last):
+  File "G:\GitHub_Repository\selenium2_python\chapter6_unitest_UnitTestingFramework\test_case\sec04_baidu.py", line 18, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
